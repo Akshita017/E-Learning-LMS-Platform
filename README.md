@@ -115,19 +115,6 @@ Make sure to add the following in your `.env` file:
 * ⭐ Course Reviews & Ratings
 * 📱 Mobile Responsiveness Improvements
 * 📩 Email Notifications
-* 🧾 Invoice Generation
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repo and submit a PR.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
@@ -136,7 +123,6 @@ This project is licensed under the MIT License.
 **Akshita Maheshwari**
 
 * GitHub: https://github.com/Akshita017
-* LinkedIn: (Add your profile link here)
 
 ---
 
