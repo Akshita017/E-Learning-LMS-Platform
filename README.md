@@ -110,12 +110,6 @@ Make sure to add the following in your `.env` file:
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of your project here*
-
----
-
 ## 🧠 Future Improvements
 
 * ⭐ Course Reviews & Ratings
