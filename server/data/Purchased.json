@@ -1,0 +1,42 @@
+[
+  {
+    "courseId": "course-id",
+    "courseTitle": "JavaScript Basics: From Zero to Hero",
+    "price": 44900,
+    "paymentMethod": "card",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEoHc9-ty3b1iJPTQuZ7SOoW_F4rk67pHxEw&s",
+    "purchasedAt": "2025-04-09T12:53:11.461Z"
+  },
+  {
+    "courseId": "course-id",
+    "courseTitle": "Full-Stack Web Development with MERN Stack",
+    "price": 79900,
+    "paymentMethod": "card",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS3jJbxk0_6CooWzYoRd6FBLEtm-0KO3JFkA&s",
+    "purchasedAt": "2025-04-09T15:31:50.706Z"
+  },
+  {
+    "courseId": "course-id",
+    "courseTitle": "Full stack with Ai",
+    "price": 15500,
+    "paymentMethod": "card",
+    "image": "https://imgs.search.brave.com/VFRH7TAgFKEAoCeBJyHxXhtzE_8l5McVGZYPbNPnPik/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aGFzaG5vZGUuY29t/L3Jlcy9oYXNobm9k/ZS9pbWFnZS91cGxv/YWQvdjE3NDEyOTY1/MjQwNDUvNmQ5YmVk/MTMtZDNiYi00ZmIz/LTk1YWMtNDVmNWRk/NGYyMDMzLnBuZw",
+    "purchasedAt": "2025-04-10T09:29:22.747Z"
+  },
+  {
+    "courseId": "course-id",
+    "courseTitle": "Mastering Docker: From Beginner to Pro",
+    "price": 49900,
+    "paymentMethod": "card",
+    "image": "https://i.ytimg.com/vi/5GhbkrMukmk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCjrLkKtYwrt7n5nJy2h1f-YZinTA",
+    "purchasedAt": "2025-04-10T09:36:21.574Z"
+  },
+  {
+    "courseId": "course-id",
+    "courseTitle": "Master HTML: The Complete Guide to Web Development Fundamentals",
+    "price": 19900,
+    "paymentMethod": "card",
+    "image": "https://i.ytimg.com/vi/5ccq_nLHneE/hqdefault.jpg",
+    "purchasedAt": "2025-04-15T12:36:54.115Z"
+  }
+]
