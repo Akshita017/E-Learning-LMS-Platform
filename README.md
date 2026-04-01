@@ -1,10 +1,10 @@
-🎓 E-Learning LMS Platform
+# 🎓 E-Learning LMS Platform
 
 A full-stack Learning Management System (LMS) built using the MERN stack, enabling users to browse courses, purchase them, and learn through structured content.
 
 ---
 
-🚀 Features
+## 🚀 Features
 
 * 👨‍🎓 User Authentication (Login/Signup)
 * 📚 Browse & Enroll in Courses
@@ -17,30 +17,30 @@ A full-stack Learning Management System (LMS) built using the MERN stack, enabli
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Frontend:
+### Frontend:
 
 * React.js
 * Redux Toolkit
 * Tailwind CSS
 
-Backend:
+### Backend:
 
 * Node.js
 * Express.js
 
-Database:
+### Database:
 
 * MongoDB
 
-Payment:
+### Payment:
 
 * Stripe API
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 ```
 lms-main/
@@ -53,35 +53,42 @@ lms-main/
 
 ---
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
-1️⃣ Clone the repository
+### 1️⃣ Clone the repository
 
+```bash
 git clone https://github.com/your-username/E-Learning-LMS-Platform.git
 cd E-Learning-LMS-Platform
+```
 
 ---
 
-2️⃣ Setup Backend
+### 2️⃣ Setup Backend
 
+```bash
 cd server
 npm install
+```
 
 Create a `.env` file in the server folder:
 
+```
 PORT=8080
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_secret_key
 STRIPE_SECRET_KEY=your_stripe_key
-
+```
 
 Run backend:
 
+```bash
 npm run dev
+```
 
 ---
 
-3️⃣ Setup Frontend
+### 3️⃣ Setup Frontend
 
 ```bash
 cd client
@@ -91,7 +98,7 @@ npm run dev
 
 ---
 
-🔐 Environment Variables
+## 🔐 Environment Variables
 
 Make sure to add the following in your `.env` file:
 
@@ -103,7 +110,13 @@ Make sure to add the following in your `.env` file:
 
 ---
 
-🧠 Future Improvements
+## 📸 Screenshots
+
+*Add screenshots of your project here*
+
+---
+
+## 🧠 Future Improvements
 
 * ⭐ Course Reviews & Ratings
 * 📱 Mobile Responsiveness Improvements
@@ -112,19 +125,19 @@ Make sure to add the following in your `.env` file:
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a PR.
 
 ---
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 **Akshita Maheshwari**
 
@@ -133,6 +146,6 @@ This project is licensed under the MIT License.
 
 ---
 
-⭐ Show Your Support
+## ⭐ Show Your Support
 
 If you like this project, give it a ⭐ on GitHub!
